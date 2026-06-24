@@ -1,0 +1,14 @@
+C:\CSharp\testedemesa\bin\Debug\net10.0\testedemesa.exe
+C:\CSharp\testedemesa\bin\Debug\net10.0\testedemesa.deps.json
+C:\CSharp\testedemesa\bin\Debug\net10.0\testedemesa.runtimeconfig.json
+C:\CSharp\testedemesa\bin\Debug\net10.0\testedemesa.dll
+C:\CSharp\testedemesa\bin\Debug\net10.0\testedemesa.pdb
+C:\CSharp\testedemesa\obj\Debug\net10.0\testedemesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\testedemesa\obj\Debug\net10.0\testedemesa.AssemblyInfoInputs.cache
+C:\CSharp\testedemesa\obj\Debug\net10.0\testedemesa.AssemblyInfo.cs
+C:\CSharp\testedemesa\obj\Debug\net10.0\testedemesa.csproj.CoreCompileInputs.cache
+C:\CSharp\testedemesa\obj\Debug\net10.0\testedemesa.dll
+C:\CSharp\testedemesa\obj\Debug\net10.0\refint\testedemesa.dll
+C:\CSharp\testedemesa\obj\Debug\net10.0\testedemesa.pdb
+C:\CSharp\testedemesa\obj\Debug\net10.0\testedemesa.genruntimeconfig.cache
+C:\CSharp\testedemesa\obj\Debug\net10.0\ref\testedemesa.dll
