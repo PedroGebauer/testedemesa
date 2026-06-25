@@ -4,14 +4,18 @@ class Programa
 {
     static void Main()
     {
-        int a = 2;
-        int[] vetor = new int[6];
+        int a, b;
 
-        while (a < 6)
+        a = 7;
+        b = a - 6;
+
+        int[] v = new int[6];
+
+        while (b < 6)
         {
-            vetor[a] = 10 * a;
-            Console.WriteLine(vetor[a]);
-            a += 1;
+            v[b] = b + a;
+            Console.WriteLine(v[b]);
+            b = b + 2;
         }
     }
 }
