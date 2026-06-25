@@ -1,0 +1,14 @@
+C:\CSharp\testedemesa3\bin\Debug\net10.0\testedemesa3.exe
+C:\CSharp\testedemesa3\bin\Debug\net10.0\testedemesa3.deps.json
+C:\CSharp\testedemesa3\bin\Debug\net10.0\testedemesa3.runtimeconfig.json
+C:\CSharp\testedemesa3\bin\Debug\net10.0\testedemesa3.dll
+C:\CSharp\testedemesa3\bin\Debug\net10.0\testedemesa3.pdb
+C:\CSharp\testedemesa3\obj\Debug\net10.0\testedemesa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\testedemesa3\obj\Debug\net10.0\testedemesa3.AssemblyInfoInputs.cache
+C:\CSharp\testedemesa3\obj\Debug\net10.0\testedemesa3.AssemblyInfo.cs
+C:\CSharp\testedemesa3\obj\Debug\net10.0\testedemesa3.csproj.CoreCompileInputs.cache
+C:\CSharp\testedemesa3\obj\Debug\net10.0\testedemesa3.dll
+C:\CSharp\testedemesa3\obj\Debug\net10.0\refint\testedemesa3.dll
+C:\CSharp\testedemesa3\obj\Debug\net10.0\testedemesa3.pdb
+C:\CSharp\testedemesa3\obj\Debug\net10.0\testedemesa3.genruntimeconfig.cache
+C:\CSharp\testedemesa3\obj\Debug\net10.0\ref\testedemesa3.dll
